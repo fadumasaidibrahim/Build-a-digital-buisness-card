@@ -1,5 +1,7 @@
 body {
     margin: 20px;
+
+
 }
 
 .avatar {
@@ -13,6 +15,10 @@ body {
     margin-left: auto;
     margin-right: auto;
     justify-content: space-around;
+    border-bottom: 5px solid  #dbcefe;
+    text-align: center;
+    color: black;
+    background: #ddebf8;
    
 }
 
